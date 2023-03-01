@@ -1,0 +1,26 @@
+.bg-login-image{
+    background: url("../img/venta.jpg");
+    background-position: center;
+    background-size: cover;
+    border: 0px;
+}
+
+.sizeDiv{
+    width: 40vw;
+}
+
+#main-menu{
+    left: unset;
+    right: 0;
+}
+
+#ordenar-genero{
+    cursor:pointer;
+}
+
+#form-container{
+    width: 40vw; 
+
+}
+
+

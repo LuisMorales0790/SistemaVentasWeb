@@ -1,0 +1,5 @@
+@media print{
+    .parte01, .btn, .accion{
+        display: none;
+    }
+}

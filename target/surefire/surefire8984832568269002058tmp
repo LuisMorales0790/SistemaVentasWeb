@@ -1,0 +1,7 @@
+#surefire
+#Wed Mar 01 15:43:08 COT 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Dell\\Documents\\NetBeansProjects\\SistemaVentasWeb
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Dell\\.m2\\repository
+basedir=C\:\\Users\\Dell\\Documents\\NetBeansProjects\\SistemaVentasWeb
